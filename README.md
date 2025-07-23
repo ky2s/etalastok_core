@@ -34,5 +34,5 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
-
+```
 Author : Kyky Sukiawan - scarecrow646@gmail.com
